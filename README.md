@@ -51,11 +51,5 @@ End-to-end Power BI dashboard analyzing AtliQ Mart's supply chain performance ac
 - Delayed lines (75% late for priors); focus replenishment in Ahmedabad/Surat/Baroda  
 - May/Aug improvements signal potential with targeted interventions  
 
-## 📂 Project Highlights
-- Interactive Power BI app with trends, scatters, tables for multi-level drill-downs  
-- Highlights: Customer/category/city filters, daily/monthly aggregations  
-- Real-world supply chain KPIs with actionable insights/recommendations  
-- Portfolio-ready: GitHub/Novypro links for full dashboard  
-
 ## 🚀 Conclusion
 This Supply Chain Challenge project showcases Power BI expertise in DAX, modeling, and storytelling for logistics. It turns raw order data into insights exposing OTIF failures, customer risks, and optimization paths—directly boosting supply chain efficiency and retention.
